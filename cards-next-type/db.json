@@ -1,0 +1,14 @@
+{
+    "cards" : [
+        {
+            "id" : 1,
+            "name" : "Card 1",
+            "description" : "This is the first card"
+        },
+        {
+            "id" : 2,
+            "name" : "Card 2",
+            "description" : "This is the second card"
+        }
+    ]
+}
